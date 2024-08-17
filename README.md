@@ -1,6 +1,3 @@
-Here's a sample README for your EthiopiaE-Shop project. You can adjust the details based on your specific needs and project features.
-
----
 
 # EthiopiaE-Shop
 
