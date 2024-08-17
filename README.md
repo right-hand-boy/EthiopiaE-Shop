@@ -16,7 +16,6 @@
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **Deployment**: (Specify if applicable, e.g., Heroku, Vercel, etc.)
 
 ## Getting Started
 
